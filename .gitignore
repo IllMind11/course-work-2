@@ -1,0 +1,18 @@
+node_modules
+*.log
+dist
+.output
+.nuxt
+.data
+.cache
+.env
+.idea/
+
+# Pruvious dev/build outputs
+.autoload.sql
+.pruvious
+.ssh.*
+/.uploads
+/public/uploads
+pruvious.db
+pruvious.db-journal
